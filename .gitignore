@@ -3,3 +3,5 @@
 target/
 .cpcache
 node_modules/
+.shadow-cljs
+.calva
